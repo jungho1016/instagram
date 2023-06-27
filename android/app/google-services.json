@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "365512478348",
+    "project_id": "insta-689b6",
+    "storage_bucket": "insta-689b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365512478348:android:bbad013f48d33afe3575a9",
+        "android_client_info": {
+          "package_name": "com.example.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365512478348-hvih6v8ami46pmt43ekrftrj3q3nmua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBvOXOtBsukAdS7MKn-qCcy3eXDzbQ9Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365512478348-hvih6v8ami46pmt43ekrftrj3q3nmua0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365512478348-kksk0bg1dqdmgko6m54odsj95sj2l7ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.insta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365512478348:android:56ecc757b2c877ac3575a9",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365512478348-hvih6v8ami46pmt43ekrftrj3q3nmua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBvOXOtBsukAdS7MKn-qCcy3eXDzbQ9Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365512478348-hvih6v8ami46pmt43ekrftrj3q3nmua0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365512478348-kksk0bg1dqdmgko6m54odsj95sj2l7ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.insta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365512478348:android:9112cd746e05240b3575a9",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365512478348-hvih6v8ami46pmt43ekrftrj3q3nmua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBvOXOtBsukAdS7MKn-qCcy3eXDzbQ9Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365512478348-hvih6v8ami46pmt43ekrftrj3q3nmua0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365512478348-kksk0bg1dqdmgko6m54odsj95sj2l7ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.insta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
